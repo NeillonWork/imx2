@@ -150,6 +150,9 @@ a{
   .gitlogo{
     max-width: 24px;
   }
+  .discordLog{
+    max-width: 24px;
+  }
   
   .fade-in{
     animation: fadeIn 5s;
